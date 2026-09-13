@@ -1,0 +1,5 @@
+Static visualizations display information in a fixed format, such as a bar chart or line graph. They are useful because they are simple and easy to understand, but users cannot interact with the data. Interactive visualizations allow users to explore the data by hovering, zooming, filtering, and selecting different information.
+
+Dashboards are useful for real-time data exploration because they can organize multiple visualizations and important metrics in one place. Users can interact with filters and other controls to focus on the information that is most useful to them. This makes it easier to identify patterns and understand changes in the data.
+
+Interactive tools such as Plotly can improve data communication in professional settings by allowing people to explore visualizations instead of only viewing a static chart. Features such as hovering over data points, zooming, and filtering can help users understand the data more clearly and make it easier to communicate important findings.
